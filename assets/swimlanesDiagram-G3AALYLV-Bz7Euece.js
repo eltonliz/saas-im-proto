@@ -1,8 +1,0 @@
-import{c as r,s as o}from"./flowDiagram-23GEKE2U-DtM2Axu1.js";import{_ as m}from"./ProtoViewerPage-DWOjTz1O.js";import"./index-ANdZQQqN.js";import"./chunk-5VM5RSS4-COUlx1vR.js";import"./chunk-XXDRQBXY-Djo13-VY.js";import"./chunk-VR4S4FIN-4iK4wX57.js";import"./chunk-32BRIVSS-cKZnnMWb.js";import"./channel-D_ivRqlC.js";import"./PageUseCaseHelp-yVktUxaN.js";import"./MessageCenter-Co_E17R6.js";import"./im-friend-store-DzJJQocj.js";import"./im-aftersale-store-BC2xS2LJ.js";import"./im-group-store-B72Hz9wc.js";import"./im-visibility-engine-C4H5Fedr.js";import"./im-conversation-store-CL_jGM7N.js";import"./NotifyListPage-CCsqC_Ip.js";import"./ContactsPage-BIZZSNFn.js";import"./FriendRequests-0-gO_6L5.js";import"./AddFriend-DBvpBR6m.js";import"./FriendProfile-C6HVlsY4.js";import"./FriendSettings-BhZdoxi9.js";import"./MyGroups-0ZJSrDk-.js";import"./ChatPage-CZMsdg1G.js";import"./im-aftersale-service-mvYOWI3c.js";import"./ReportDialog-CzeqjYn2.js";import"./im-live-store-CTZ0y1Xj.js";import"./GroupSettings-B-JWwneo.js";import"./im-group-orchestrator-CE4oe_Cv.js";import"./GlobalSearch-Co4nGGTg.js";import"./ImLiveRoom-duZRbtQF.js";import"./im-mass-send-store-DVc0-gto.js";import"./LivePromoPage-Djd4ukfN.js";import"./MassSendRecordsPage-bXg_qx2G.js";import"./JoinGroupPage-Biv15wdc.js";import"./StoreMgmtPage-Bgw_ySs7.js";import"./StoreMemberPage-CDsRL-LT.js";import"./PayResultPage-CM4EMQBh.js";import"./ConsultEntryPage-CbJ08YDx.js";import"./AftersaleApplyPage-BbUKBx0P.js";import"./AccountClosePage-BhzDT_qH.js";var i=m(t=>`${o(t)}
-  .swimlane.cluster rect {
-    stroke: ${t.clusterBorder} !important;
-  }
-  [data-look="neo"].cluster rect {
-    filter: none;
-  }
-`,"getStyles"),p=i,R=r({defaultLayout:"swimlane",styles:p});export{R as diagram};
